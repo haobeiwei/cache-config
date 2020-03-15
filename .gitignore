@@ -1,0 +1,32 @@
+# maven ignore
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+# eclipse ignore
+.settings/
+.project
+.classpath
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+# system ignore
+.DS_Store
+/mvn_log.txt
+/coupon-web/mvn_log.txt
+/coupon-sdk/README
+/coupon-sdk/dependency-reduced-pom.xml
+/coupon-sdk/mvn-log.txt
+/coupon-sdk/mvn_log.txt
+/coupon-sdk/src/assembly/assembly.xml
+/mvn-log.txt
